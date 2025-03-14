@@ -1,0 +1,105 @@
+## Briefing van der Goes
+Briefing Document: Van der Goes Familiegeschiedenis
+
+
+**Datum:** 26 oktober 2023
+** Voorbereid voor:** [Uw Beoogd publiek]
+** Voorbereid door:** AI Taal Model
+**Onderwerp: ** Overzicht van historische informatie over de familie Van der Goes
+
+
+Dit briefingdocument vat de hoofdthema’s, belangrijke ideeën en feiten samen die zijn weggehaald uit de verstrekte bronnen met betrekking tot de familie Van der Goes, een historisch belangrijke Nederlandse afstamming. De bronnen bevatten fragmenten van een genealogische website ("JohnOoms.nl") en een glijwoordsbestand met genealogische gegevens ("genlogie-export/van-der-Goes.txt" van GitHub).
+
+
+**Hoofdthema's en belangrijke ideeën: **
+
+
+1 1 van By the it.  **Lange en gevestigde lijn:** Beide bronnen geven duidelijk aan dat de familie Van der Goes een lange geschiedenis in Nederland heeft, met gedocumenteerde leden uit de 12e eeuw. De bron "JohnOoms.nl" biedt een vroege afstamming terug naar Arent van der Goes, geboren rond 1111. De GitHub bron bevestigt dit met vermeldingen van Willem Arentsz van der Goes (ca. 1180 - ?) Arent Aerntsz van der Goes (ca. 1150 - 1183).
+
+
+    * **Coleote (JohnOoms.nl):** De website vermeldt personen direct in chronologische volgorde, te beginnen met "1. Arent van der Goes Ridder, bijgenaamd “met den Buke”. Ik heb er circa 1111 te Goes ver?”
+
+
+2 van 2.  Nobility and Social Status:** Verschillende leden van de vroege Van der Goes familie worden geïdentificeerd als ridders ("Ridder"), en sommige zijn geassocieerd met wapenschilden. Dit suggereert een nobele of op zijn minst een prominente sociale status tijdens de middeleeuwse periode.
+
+
+    * **Quote (JohnOoms.nl):** Met betrekking tot de vroegste Arent van der Goes, staat er in het teken "Ridder, bij "met den Buke"."
+    * **Quote (GitHub):** Beschrijvend Willem Arentsz van der Goes, merkt het op: "Voerde een wapen: drie zilver bokshoofden met gouden horens op een veld sabel." Deze heraldische beschrijving betekent een bepaalde maatschappelijke status.
+    * **Quote (GitHub): ** Over Arent Aernttsz van der Goes, staat gewoon: "Ridder."
+
+
+3. 3 van By the it of zij het geval is.  Openbare dienst en politieke invloed in Latere Centuriën:** De GitHub-bron benadrukt verschillende familieleden van Van der Goes die belangrijke politieke en administratieve functies bekleedden, met name in de 15e en 16e eeuw. Figuren als Aert van der Goes en zijn zoon Adriaen Aertsz van der Goes waren Raadpensionarissen (Grand Pensionaries) van Nederland, wat wijst op aanzienlijke macht en invloed.
+
+
+    * **Quote (GitHub) met betrekking tot Aert van der Goes:** Hij was een belangrijke Nederlandse figuur politiek, die als zijaanbeveling Raadpension."
+    * **Quote (GitHub) met betrekking tot Adriaen Aertsz van der Goes:** "Hij was een Nederlandspensionraadaris, volgde en vader aan der Goes, op tijdens deze. ficiële bijeenkomst. Hij ook een Hij ook als geserveerd als landsadvocaat van de Staten van Holland."
+    * **Quote (GitHub) over het belang van de Raadpensionaris-rol:** "De landsadvocaat was een figuur een zeer belangrijk in het bestuur van Holland."
+
+
+4. 4 van By the it.  Geneve Records en hun belang: ** Beide bronnen benadrukken de afhankelijkheid van genealogische gegevens voor het reconstrueren van de familiegeschiedenis, met name voor eerdere perioden waarin de documentatie van de primaire bron schaars is. De GitHub-bron vermeldt expliciet het potentieel voor variaties en onvolledigheid in dergelijke records.
+
+
+    * **Quote (GitHub) met betrekking tot Jan van der Goes:** "Veel van de beschikbare informatie is afkomstig uit genea datalogische, met name stambomen. Sites genealogieonline.nlnl biedt eenzamer van een deel van deze informatie."
+    * **Quote (GitHub) over beperkingen van vroege genealogische gegevens:** "Het belangrijk is om te zijner gegevens dateert van gegevens van periode nauwkeuriger kan en dat is van het ene van dit informatie kan."
+
+
+5. 5 uur.  **Verbindingen met Andere Opmerkelijke Families:** De informatie over Rosa Dirksdr van der Goes die met Hendrik van Cats gaat, verbindt de familie met een andere prominente Nederlandse afstamming. Bovendien suggereert de vermelding van Germain Picavet en zijn relevantie voor de "stamreeks Doublet / van der Goes" interhuwelijken en relaties met andere belangrijke families in de regio, waaronder die in Lille (Rijsel).
+
+
+    * **Quote (JohnOoms.nl): ** "Rosa Dirksdr van der Goes ... Zij werd met Hendrik van Cats met de Zij werd met Hendrik van Cats ontmoet. Het jaar van haar geworden 1190. Zoon van Goswin van Welle. Vrijheer van Cats, heer van Duiveland."
+    * **Quote (GitHub) met betrekking tot Germain Picavet: ** "Deze lijn is relevant voor de stamreeks Doublet / van der Goes."
+
+
+6. 6 uur.  **Voorbehoud van de geschiedenis door middel van portretten en recipiënten:** De GitHub bron belicht het bestaan van portretten van verschillende familieleden van Van der Goes (Pieter van der Goes, Margaretha van Banchem, Aert van der Goes, en Anna Laurensdr van Spangen), vaak gevestigd in Museum Prinsenhof in Delft en in bruikleen van de Familiearchief Van der Goes van Naters. Deze portretten, soms met inscripties met leeftijd en jaar opschriften, dienen als waardevolle historische documenten. Bovendien wordt de voortzetting van de "Register van de Dachvaerden der Statens Lands van Holland" door Aert en Adriaen van der Goes genoteerd als een belangrijke historische bijdrage, die inzicht geeft in de politieke en administratieve zaken van Nederland.
+
+
+    * ** Universa (GitHub) met betrekking tot het portret van Pieter van der Goes:** "'Anno Domini 1560 Aetatis Meae 27 (in het jaar des Heren - in mijn leven van 27)'."
+    * **Quote (GitHub) met betrekking tot het register: ** "Adriaen Aertsz van der Goes de door def is gezeten, Aert van der Goes, aan de hoofdre 'Register van de Dachva der Statens van Holland'. Dit register is een waardevolle historische bron. Het Het bevatabttekeningen over de vergaderingen van de Staten van Holland."
+
+
+7. 7 uur geleden.  **Geografische verbindingen:** De familienaam "Van der Goes" zelf suggereert een oorsprong in of in verbinding met de stad Goes. Later worden leden geassocieerd met Delft en Den Haag, als gevolg van hun betrokkenheid bij de politieke en administratieve centra van Nederland.
+
+
+    * **Quote (JohnOoms.nl): ** De afstamming begint met "Arent van der Goes circa 1111 te Goes."
+    * **Quote (GitHub) met betrekking tot Adriaen Aertsz van der Goes:** "Geboren in 1495 in Delft, op overleden op 5 november 1560 in Den Haag."
+
+
+** Sleutelelijke individuen en feiten:**
+
+
+* **Arent van der Goes (geboren ca. 1111):** Vroegste gedocumenteerde lid in "JohnOoms.nl", een ridder.
+* **Arent van der Goes (d. 1183):** Zoon van het bovenstaande, ook met kinderen Willem en Dirk.
+* **Dirk van der Goes (geboren ca. 1160):** Vader van Rosa Dirksdr van der Goes.
+* * * *Rosa Dirksdr van der Goes (geboren ca. 1190):** Getrouwd Hendrik van Cats, die de families met elkaar verbindt.
+* ** Willem van der Goes (ca. 1180 - ?):** Draagt een wapenschild.
+* *Arent Aerntsz van der Goes (ca. 1150 - 1183): ** Ridder.
+* *Jan van der Goes (ca. 1270 - 1341):** Zoon van Gilbert van der Goes.
+* ** Hendrik van der Goes (ca. 1390 - 1460): ** Roos van schildknaap tot ridder.
+* **Pieter van der Goes (1435 - na 1486):** In de 15e eeuw, verbonden aan Den Haag.
+* **Aert van der Goes (1475 - 1543): ** Raadpensionaris van Nederland, studeerde aan de Universiteit van Leuven, diende als pleitbezorger en Pensionaris van Delft en vervolgde de "Register van de Dachvaerden". Hij ondernam verschillende diplomatieke missies.
+    * CATTALLATE (GitHub) met betrekking tot de missies van Aert: ** In de tekst wordt zijn betrokkenheid bij de onderhandelingen met Denemarken, het Heilige Roomse Rijk, Zweden en Frankrijk beschreven.
+* ** Adele Aertsz van der Goes (1495 - 1560):** Zoon van Aert, ook Raadpension van Nederland, vervolgde het "Register", trouwde met Anna Laurensdr van Spangen en had negen kinderen.
+* ** Anna Laurensdr van Spangen (ca. 1500 - 1548):** Gehuwd Adriaen Aertsz van der Goes, portret in Museum Prinsenhof.
+* **Pieter van der Goes (1533 - 1590):** Lived in Delft, portret in het Prinsenhof van 1560.
+*Maria van der Dussen (1536 - 1591):** Portret in Museum Prinsenhof, verbonden aan de familie Van der Goes van Naters.
+* ** Germain Picavet (1395 - 1464):** Griffier in Lille, aansluiting op de afstamming van de Doublet/van der Goes.
+
+
+** Overwegingen en verder onderzoek:**
+
+
+* De gepresenteerde informatie is voornamelijk genealogisch en biografisch. Verder onderzoek naar de historische context van Nederland tijdens de periodes waarin deze mensen leefden, zou een rijker begrip van hun leven en rollen geven.
+* Voortborduurinformatie uit meerdere genealogische databases en primaire historische bronnen (indien beschikbaar) wordt aanbevolen om de nauwkeurigheid van de gegevens te controleren.
+* De verbinding tussen de eerder middeleeuwse Van der Goes-lijn op "JohnOoms.nl" en de later politiek prominente leden die in de GitHub-bron werden beschreven, zou baat hebben bij verder onderzoek om een definitief verband te leggen.
+* Het verkennen van de symboliek van het wapen van Van der Goes kan extra inzicht bieden in de geschiedenis en identiteit van de familie.
+
+
+Deze briefing geeft een fundamenteel overzicht van de familie Van der Goes op basis van de aangeleverde bronnen. Voor een alomvattend historisch verslag zou verder diepgaand onderzoek nodig zijn.
+
+
+
+
+
+
+
+
